@@ -1,10 +1,10 @@
 {
-  "name": "@ccalamos/gatsby-source-googlemaps-static",
+  "name": "@servicesite/gatsby-source-googlemaps-static",
   "description": "Gatsby source plugin for Google Maps Static API",
-  "version": "3.1.1",
+  "version": "3.1.1-servicesite",
   "author": "Cole Calamos <cole@colejcalamos.com>",
   "bugs": {
-    "url": "https://github.com/ccalamos/gatsby-source-googlemaps-static/issues"
+    "url": "https://github.com/servicesite/gatsby-source-googlemaps-static/issues"
   },
   "keywords": [
     "gatsby",
@@ -15,10 +15,9 @@
     "maps",
     "static"
   ],
-  "homepage": "https://www.gatsbyjs.org/packages/@ccalamos/gatsby-source-googlemaps-static/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccalamos/gatsby-source-googlemaps-static.git"
+    "url": "https://github.com/servicesite/gatsby-source-googlemaps-static.git"
   },
   "license": "MIT",
   "devDependencies": {
